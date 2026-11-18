@@ -15,5 +15,15 @@ echo "Mã số sinh viên: 2125110083 <br>";
     echo "ngaysinh:  $ngsinh <br>";
     echo "Mã số sinh viên:  $maso <br>";
 //3.
-echo "3. <br>"
+echo "3. <br>";
+define("Host: ","localhost"); 
+define("Database: ","ql_sinhvien"); 
+define("Username: ","root");
+define("Password: "," "); 
+
+
+echo "Host: "  . Host . "<br>";
+echo "Database: " . Database . "<br> ";
+echo "Username: " . Username . "<br> ";
+echo "Password: " . password . "<br> <hr> "
 ?>
