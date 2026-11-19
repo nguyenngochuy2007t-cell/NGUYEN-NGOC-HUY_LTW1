@@ -24,7 +24,7 @@
     echo "Tên: $ten <br>";
     echo "ngaysinh:  $ngsinh <br>";
     echo "Mã số sinh viên:  $maso <br>";
-<<<<<<< HEAD
+
     //3.
     echo "3. <br>";
 
@@ -49,18 +49,4 @@
 </body>
 
 </html>
-=======
-//3.
-echo "3. <br>";
-define("Host: ","localhost"); 
-define("Database: ","ql_sinhvien"); 
-define("Username: ","root");
-define("Password: "," "); 
 
-
-echo "Host: "  . Host . "<br>";
-echo "Database: " . Database . "<br> ";
-echo "Username: " . Username . "<br> ";
-echo "Password: " . password . "<br> <hr> "
-?>
->>>>>>> da79e7d80e44d4801254b8b62ed2cf6e08a2566a
